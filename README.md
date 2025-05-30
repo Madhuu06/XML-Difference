@@ -1,4 +1,4 @@
-<p Uploaded the python code, database and the CSV file in which we have to input the order id. p/>
+Uploaded the python code, database and the CSV file in which we have to input the order id.
 While inserting the input in the CSV file, the first line of the CSV file should contain "wcs_id,micro_id" because it builds a list of tuples, each tuple containing a pair of order IDs, one from the WCS and one from microservice.
 The CSV file we shared has it already.
 So if any further changes occur, do add that line.
